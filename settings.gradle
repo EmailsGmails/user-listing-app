@@ -1,1 +1,1 @@
-include ':user-listing-app'
+include ':app'
